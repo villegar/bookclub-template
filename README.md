@@ -10,16 +10,20 @@ This repo contains 3 main folders:
 - Data: Example datasets are stored in this folder to help facilitate practical applications! (For more info, please check out [Data/README.md](Data/README.md))
 - QandA: A collection of questions (and answers) on the chapters that come up during meetings (or between!)
 
-Other useful guides: [Repo Maintainers Guide](.guides/repo-maintainers.md)
+Other useful pages: 
+- Git for Bookclubs: Github Web Editor (video)
+- Git for Bookclubs: Local Setup (video | [text](https://github.com/r4ds/bookclub-template/blob/main/_guides/happygitforbookclubs.md))
+- [Repo Maintainers Guide](https://github.com/r4ds/bookclub-template/blob/main/_guides/repo-maintainers.md)
+
 
 ### Meeting Schedule 
 
 *Cohort 1 - {DAY, TIME} - facilitated by {FACILITATOR_NAME}
 
-{NEXT THREE MEETINGS}
-2020-08-12: Intro/Goals Overview
-2020-08-19: Chapter 1 (or whichever is the first logical, non-introduction chapter
-2020-08-26: Chapter 2
+{NEXT ~3 MEETINGS}
+- 2020-08-12: Intro/Goals Overview
+- 2020-08-19: Chapter 1 (or whichever is the first logical, non-introduction chapter
+- 2020-08-26: Chapter 2
 
 <details>
   <summary> Future Meetings </summary>
