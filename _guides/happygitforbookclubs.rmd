@@ -4,10 +4,12 @@ subtitle: "2/2: Setting Up Your Local Machine"
 author: Tan Ho
 date: "`r Sys.Date()`"
 output: 
+  github_document:
+    toc: false
   html_document:
     theme: darkly
-  github_document: true
 ---
+#### 2/2: Setting Up Your Local Machine
 
 This next video summarises the happiest way to set up a copy of a GitHub repository on your computer and to interact with it. This video assumes that you have Git installed, if you do not, please check out https://happygitwithr.com/install-git.html. 
 
