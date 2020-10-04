@@ -11,9 +11,8 @@ The **Facilitator** and the **Repo Maintainer** do not have to be the same perso
 
 ## Parts of the Repository
 
-# Main README page
-
-### Sections: 
+### Main README page
+Sections: 
 
 - Main info
 
@@ -35,6 +34,6 @@ Slides (ie RMDs + data + supporting JS/CSS libs etc, but also possibly PPTX) sho
 
 Videos should be recordings uploaded to the R4DS Youtube - if you have questions about this part, you should ask Jon Harmon. 
 
-# Companion
+### Companion
 
 In each book club, we try to maintain a **Companion**, which is a bookdown document that holds Learning Objectives for each chapter (most are by Jon Harmon) as well as a record of every question and answer that comes up in the discussion/Slack channel post-meeting.   
